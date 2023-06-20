@@ -35,10 +35,10 @@ Sample input/output:
 
 > Enter a number:
 
-> 6
+>*6*
 
 > Your number is: 6.00
-> 
+
 
 **Q2 (60 points)**
 
@@ -60,7 +60,7 @@ Sample input/output:
 
 > Enter arithmetic operation:
 
-> 3\.7/3
+> *3.7/3*
 
 > 3\.70 / 3.00 = 1.23
 
